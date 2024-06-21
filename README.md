@@ -9,4 +9,10 @@
 - FastApi(backend framework)
 - Poetry (dependency management)
 - SQLModel (ORM?) or Another ORM?
-- 
+
+# Research
+
+- OAuth2 guidelines and architecture patterns
+- Role based routing
+- Depends in FastApi
+- ORMs
