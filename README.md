@@ -4,13 +4,13 @@
 - We will implement an authentication solution that satisfies OAuth2 standard/guidelines
 - We will implement role based routing as well
 
-# Tech we will use
+## Tech we will use
 
 - FastApi(backend framework)
 - Poetry (dependency management)
 - SQLModel (ORM?) or Another ORM?
 
-# Research
+## Research
 
 - OAuth2 guidelines and architecture patterns
 - Role based routing
